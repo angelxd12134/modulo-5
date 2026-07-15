@@ -1,0 +1,11 @@
+1. ¿Qué evento activa el flujo?
+   - El evento activador (Trigger) es el envío de un nuevo formulario de reporte ciudadano.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+   - Mensaje: "🚨 *Nueva Incidencia Registrada* .
+3. ¿Qué información no debería enviarse por seguridad?
+   - Por razones de estricta seguridad, privacidad y protección de los ciudadanos, BAJO NINGUNA CIRCUNSTANCIA se deben enviar en el mensaje de Telegram:
+     - Nombre, apellidos o número de identificación del denunciante.
+     - Dirección exacta de residencia o datos de geolocalización ultraespecíficos que comprometan la seguridad física de la persona.
+     - Teléfonos de contacto o correos electrónicos personales.
+     - Contraseñas, claves de acceso o cualquier tipo de dato sensible clasificado bajo la legislación de protección de datos (habeas data).

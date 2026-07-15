@@ -1,0 +1,11 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+   - Tarea 1: Registrar una incidencia o denuncia en un formulario web (Historia de Usuario 1).
+   - Tarea 2: Recibir una alerta rápida en Telegram para el coordinador al registrarse un nuevo reporte (Historia de Usuario 2).
+
+2. ¿Por qué son las más importantes?
+   - Son la base fundamental del sistema de veeduría. Sin un mecanismo de registro, el equipo no tiene insumos sobre los cuales trabajar. Y sin la alerta rápida por Telegram, el equipo no se entera de manera oportuna de los nuevos casos, perdiendo capacidad de respuesta. Estas dos tareas habilitan el flujo mínimo viable de comunicación.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+   Definición de Terminado (Definition of Done - DoD):
+   -El flujo funciona de extremo a extremo (el formulario se envía correctamente y la alerta llega al canal correspondiente de Telegram).
+   -Se validó que ningún dato confidencial o sensible de la persona denunciante sea expuesto o enviado en los mensajes automáticos.
