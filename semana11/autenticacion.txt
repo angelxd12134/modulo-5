@@ -1,0 +1,11 @@
+EXPLICACIÓN DE AUTENTICACIÓN Y SEGURIDAD
+
+El login es el proceso tecnológico que permite identificar y validar la identidad de un usuario mediante 
+credenciales antes de concederle acceso a las funcionalidades y datos internos de la plataforma. 
+Es indispensable que ciertas rutas de la aplicación estén protegidas (como la edición de causas,
+eliminación de reportes o la base de datos de administración) para evitar que personas malintencionadas 
+alteren, saboteen o borren información comunitaria legítima. 
+
+Bajo ninguna circunstancia se debe exponer públicamente información confidencial como contraseñas en 
+texto plano, números de identificación, direcciones exactas de residencia, teléfonos, claves de API o 
+tokens de autenticación de los administradores.

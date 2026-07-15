@@ -1,0 +1,13 @@
+1. Vista de causas disponibles: 
+   Un tablero principal (dashboard) donde se listan todas las causas registradas en tarjetas visuales claras, organizadas por orden cronológico o por nivel de prioridad.
+
+2. Formulario para crear una causa: 
+   Una sección con un formulario limpio que solicita únicamente el título de la problemática, una descripción general y la categoría o sector afectado. No solicita datos personales sensibles del creador.
+
+3. Botón para apoyar una causa: 
+   Cada tarjeta de causa contará con un botón destacado de "Apoyar Causa", diseñado para registrar la participación ciudadana de manera rápida y sin fricción.
+
+4. Contador de apoyos: 
+   Al lado de cada botón, un contador dinámico mostrará numéricamente cuántos ciudadanos han respaldado la causa (por ejemplo: "142 apoyos"), ayudando a visibilizar de forma transparente el impacto y la urgencia del reporte.
+
+Toda la interfaz será de uso intuitivo y omitirá por completo la exposición de datos de carácter privado o confidencial de los usuarios.

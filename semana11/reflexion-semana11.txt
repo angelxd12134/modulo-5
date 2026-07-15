@@ -1,0 +1,13 @@
+Una plataforma tecnológica que promueve la participación ciudadana y el control social no puede 
+sostenerse de manera segura y confiable si carece de base de datos, autenticación de usuarios y 
+protección estricta de la información. La base de datos es el cimiento que transforma denuncias 
+aisladas en evidencia sistemática útil para la veeduría. Sin embargo, recopilar esta información 
+expone a los ciudadanos a represalias o filtraciones; de allí la necesidad absoluta de la autenticación 
+de usuarios, que asegura que solo miembros legítimos y validados interactúen con el sistema. 
+
+Finalmente, la protección de la información y la trazabilidad garantizan la confianza pública,
+ que es el activo más valioso de cualquier iniciativa comunitaria. Si los vecinos temen por su 
+ privacidad o si el sistema es vulnerable a la manipulación de datos, la credibilidad de la veeduría 
+ se destruye de inmediato. Por lo tanto, blindar técnicamente la plataforma es un deber ético,
+ organizativo e indispensable para proteger la integridad física y digital de cada participante en 
+ el proceso de control social.

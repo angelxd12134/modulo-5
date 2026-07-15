@@ -1,0 +1,27 @@
+MODELO DE DATOS BÁSICO - PLATAFORMA COMUNITARIA
+
+Entidad: Causa
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- titulo (Texto, Obligatorio)
+- descripcion (Texto largo, Obligatorio)
+- sector_afectado (Texto, Obligatorio)
+- fecha_creacion (Fecha/Hora, Automática)
+- estado (Texto: "Activo", "En Revisión", "Resuelto")
+
+Propósito:
+Almacenar de forma organizada las causas, proyectos de veeduría o problemáticas vecinales reportadas por la comunidad, sirviendo como catálogo visible para que otros ciudadanos conozcan los casos activos.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- causa_id (Entero, Clave Foránea vinculada a Causa)
+- rol_usuario (Texto, ej: "Vecino", "Líder", "Veedor")
+- comentario (Texto, Opcional)
+- fecha_apoyo (Fecha/Hora, Automática)
+
+Propósito:
+Registrar la participación de los usuarios al respaldar o dar soporte a una causa específica. Esto permite medir cuantitativamente el interés comunitario y priorizar las problemáticas con mayor nivel de apoyo sin necesidad de almacenar datos de identidad personal directa.
